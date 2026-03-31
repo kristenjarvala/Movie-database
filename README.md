@@ -15,7 +15,7 @@
 
 1. Clone Repository
    - Open terminal and type
-   - git clone https://gitea.kood.tech/kristenjarvala/kmdb.git
+   - git clone https:
    - cd kmbd
 2. Open The Project
    - when opening the file up in your IDE click to "import Maven Projects"
